@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @alwyndsouza21
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning python
+-  Hi, I’m @alwyndsouza21
+-  I’m interested in learning
+-  I’m currently learning python
 -  contact me at- alwyndsouza21092@gmail.com
 
 <!---
