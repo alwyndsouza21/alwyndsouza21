@@ -2,6 +2,7 @@
 -  I’m interested in learning
 -  I’m currently learning python
 -  contact me at- alwyndsouza21092@gmail.com
+-  udupi
 
 <!---
 alwyndsouza21/alwyndsouza21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
